@@ -23,13 +23,5 @@ JListExample o/p : https://github.com/user-attachments/assets/b7aec34f-bf29-4fc1
 TabbedPaneExample o/p : https://github.com/user-attachments/assets/6825b2b8-9adc-4756-91fa-878a3bf8582f   
 CountryCapitalList o/p : https://github.com/user-attachments/assets/eee14be8-1335-4fbf-a34b-b329610ca592   
 CountryCapitalList o/p : https://github.com/user-attachments/assets/b64a3477-473b-4995-a441-e9f553e85542   
-
-
-
-
-
-
-
-
-
-
+ColorTabbedPane o/p : https://github.com/user-attachments/assets/2be1ac08-fbce-458a-a432-f950df3c18ad   
+ColorTabbedPane o/p : https://github.com/user-attachments/assets/3c548de9-73b1-43e9-9872-0972500698dc    
