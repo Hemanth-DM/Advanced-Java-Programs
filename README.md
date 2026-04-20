@@ -36,7 +36,10 @@ cookie servlet o/p : https://github.com/user-attachments/assets/3e1251ad-8a10-42
 8a o/p : https://github.com/user-attachments/assets/982b1807-63e7-4d3e-bc1c-c68e10e95fd0   
 8a o/p : https://github.com/user-attachments/assets/a4baaaba-fb90-4963-af81-bd36609e7d8e   
 9a o/p : https://github.com/user-attachments/assets/0e16a930-2176-435a-b500-5849addb51f4   
- 
+9b o/p : https://github.com/user-attachments/assets/9202c088-7759-470a-8ffe-e3bb0120737f   
+9b o/p :https://github.com/user-attachments/assets/a93587c3-d6cf-41c4-9b51-003bd5f211cb   
+9b o/p : https://github.com/user-attachments/assets/47795dcc-635e-46dc-a022-4fc76b86e1d6   
+
 
 
 
