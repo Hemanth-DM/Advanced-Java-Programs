@@ -27,4 +27,7 @@ ColorTabbedPane o/p : https://github.com/user-attachments/assets/2be1ac08-fbce-4
 ColorTabbedPane o/p : https://github.com/user-attachments/assets/3c548de9-73b1-43e9-9872-0972500698dc    
 Fact o/p : https://github.com/user-attachments/assets/9b75e863-fd44-41a1-abfd-e709698352ce   
 Fact o/p : https://github.com/user-attachments/assets/2f7b7ee5-57ad-4682-b555-19874f8a0289   
+prime i/p :https://github.com/user-attachments/assets/15d77cd3-9968-4251-94fd-25f1fb6546c3   
+prime o/p : https://github.com/user-attachments/assets/22d95a50-7a8f-4080-9a50-0d41eb338a6b   
+
 
