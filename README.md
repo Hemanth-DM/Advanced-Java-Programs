@@ -25,3 +25,6 @@ CountryCapitalList o/p : https://github.com/user-attachments/assets/eee14be8-133
 CountryCapitalList o/p : https://github.com/user-attachments/assets/b64a3477-473b-4995-a441-e9f553e85542   
 ColorTabbedPane o/p : https://github.com/user-attachments/assets/2be1ac08-fbce-458a-a432-f950df3c18ad   
 ColorTabbedPane o/p : https://github.com/user-attachments/assets/3c548de9-73b1-43e9-9872-0972500698dc    
+Fact o/p : https://github.com/user-attachments/assets/9b75e863-fd44-41a1-abfd-e709698352ce   
+Fact o/p : https://github.com/user-attachments/assets/2f7b7ee5-57ad-4682-b555-19874f8a0289   
+
