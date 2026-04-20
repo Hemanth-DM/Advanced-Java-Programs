@@ -29,5 +29,8 @@ Fact o/p : https://github.com/user-attachments/assets/9b75e863-fd44-41a1-abfd-e7
 Fact o/p : https://github.com/user-attachments/assets/2f7b7ee5-57ad-4682-b555-19874f8a0289   
 prime i/p :https://github.com/user-attachments/assets/15d77cd3-9968-4251-94fd-25f1fb6546c3   
 prime o/p : https://github.com/user-attachments/assets/22d95a50-7a8f-4080-9a50-0d41eb338a6b   
+cookie servlet o/p :https://github.com/user-attachments/assets/e725de42-67c1-4172-9346-b579e7ef44d8   
+cookie servlet o/p : https://github.com/user-attachments/assets/3e1251ad-8a10-42d4-9cd0-c4969646d9a9   
+
 
 
