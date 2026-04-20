@@ -31,6 +31,9 @@ prime i/p :https://github.com/user-attachments/assets/15d77cd3-9968-4251-94fd-25
 prime o/p : https://github.com/user-attachments/assets/22d95a50-7a8f-4080-9a50-0d41eb338a6b   
 cookie servlet o/p :https://github.com/user-attachments/assets/e725de42-67c1-4172-9346-b579e7ef44d8   
 cookie servlet o/p : https://github.com/user-attachments/assets/3e1251ad-8a10-42d4-9cd0-c4969646d9a9   
+7b o/p  : https://github.com/user-attachments/assets/42681cb0-3395-47b3-a7a8-dcc760c16386   
+7b o/p : https://github.com/user-attachments/assets/706b0040-338c-43dc-acad-1b2940c14d4e   
+
 
 
 
